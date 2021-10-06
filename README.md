@@ -19,18 +19,18 @@
 - [**강수지**](https://github.com/KangSuzy)
 - [**손찬영**](https://github.com/helloimscy)
 - [**장수현**](https://github.com/soohyxn)
-- **주경연**
+- [**주경연**](https://github.com/Kyoung-yeon99)
 
 ---
 
 ## 주제와 문제집📖
 | 주차 | 주제 |
 |---|---|
-| 1  |  **수학** (합공식/피보나치수/약수/최대공약수/최소공배수/소수)<br>[수업자료](https://github.com/dev-dain/Dukgorithm/blob/master/week1/study/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94%201%EC%A3%BC.pdf)<br>[문제집](https://www.acmicpc.net/workbook/view/8997) |
-| 2  |  **자료구조** (스택/큐/덱/힙)<br>수업자료<br>문제집 |
-| 3  |  **재귀함수**의 이해 & 여러 가지 **정렬**<br>수업자료<br>문제집 |
-| 4  |  **다이나믹 프로그래밍 (DP)**<br>수업자료<br>문제집 |
-| 5  |  **그래프** 이론과 구현 (1) & **DFS와 BFS 기초**<br>수업자료<br>문제집 |
+| 1  |  **수학** (합공식/피보나치수/약수/최대공약수/최소공배수/소수) :: 김다인<br>[수업자료](https://github.com/dev-dain/Dukgorithm/blob/master/week1/study/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94%201%EC%A3%BC.pdf)<br>[문제집](https://www.acmicpc.net/workbook/view/8997) |
+| 2  |  **자료구조** (스택/큐/덱/힙) :: 장수현<br>[수업자료](https://github.com/dev-dain/Dukgorithm/blob/master/week2/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94%202%EC%A3%BC%EC%B0%A8.pdf)<br>[문제집](https://www.acmicpc.net/workbook/view/8999) |
+| 3  |  **재귀함수**의 이해 & 여러 가지 **정렬** :: 주경연<br>수업자료<br>문제집 |
+| 4  |  **다이나믹 프로그래밍 (DP)** :: 강수지<br>수업자료<br>문제집 |
+| 5  |  **그래프** 이론과 구현 (1) & **DFS와 BFS 기초** :: 손찬영<br>수업자료<br>문제집 |
 | 6  |  **그래프** 이론과 구현 (2) & **DFS와 BFS 응용 & 다익스트라 알고리즘**<br>수업자료<br>문제집 |
 | 7  |  **분할정복 & 이분탐색**<br>수업자료<br>문제집 |
 | 8  |  **그리디 알고리즘**<br>수업자료<br>문제집 |
@@ -44,7 +44,7 @@
 | :----: | :------------------------------------------: | :-----------------------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: | :-----------------------------------------------: | :------------------------------------------------------: |
 | 1주  | [소수 찾기](https://www.acmicpc.net/problem/1978) | [소인수 분해](https://www.acmicpc.net/problem/11653) | [부분수열의 합](https://www.acmicpc.net/problem/1182) | [골드바흐의 추측](https://www.acmicpc.net/problem/9020) | [숨바꼭질 6](https://www.acmicpc.net/problem/17087) | [좌표 정렬하기🥈](https://www.acmicpc.net/problem/11650) [듣보잡🥈](https://www.acmicpc.net/problem/1764) |
 | 2주  | [후위 표기식2](https://www.acmicpc.net/problem/1935)| [큐](https://www.acmicpc.net/problem/10845) | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)| [요세푸스 문제 0](https://www.acmicpc.net/problem/11866)  |  [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) |    [카드🥈](https://www.acmicpc.net/problem/11652) [지영 공주님의 마법 거울🥉](https://www.acmicpc.net/problem/11586)  |
-| 3주  |  | | |  |  |                                                              |
+| 3주  | [하노이 탑](https://www.acmicpc.net/problem/1914) | [색종이 만들기](https://www.acmicpc.net/problem/2630) | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) | [시리얼 번호](https://www.acmicpc.net/problem/1431) | [좌표 압축](https://www.acmicpc.net/problem/18870) | [수 찾기🥈](https://www.acmicpc.net/problem/1920) [로또🥈](https://www.acmicpc.net/problem/6603)                                                             |
 | 4주  | ||| | |  |
 | 5주  |||||  ||
 | 6주  || | |  |                                                  |                                                              |
