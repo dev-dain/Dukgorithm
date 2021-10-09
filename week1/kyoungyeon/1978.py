@@ -1,6 +1,6 @@
-# no.1978 소수 찾기
-num_count = int(input(""))
-num_list = list(map(int, input().split(' ')))
+# no.1978 소수 찾기 
+num_count = int(input(""))  # 입력받을 정수의 개수
+num_list = list(map(int, input().split(' '))) 
 count = 0
 
 if len(num_list) == num_count:
