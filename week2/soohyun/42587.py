@@ -9,7 +9,7 @@ def solution(priorities, location):
         
         if now[0] >= max(p): # 대기목록의 최대 우선순위보다 높다면 인덱스를 큐에 삽입
             queue.append(now[1])
-        else: # 그렇지 않다면 대기목록에 삽입
+        else: # 그렇지 않다면 대기목록에 삽입s
             pr.append(now)
             
     return queue.index(location) + 1
